@@ -1,6 +1,7 @@
 import React from 'react'
 
 import './app.css'
+import Navbar from './navbar.js'
 
 export default class App extends React.Component {
         constructor(props)  {

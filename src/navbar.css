@@ -1,0 +1,17 @@
+.navbar-container {
+    background: white;
+    display: flex;
+    width: 100%;
+}
+
+.username {
+    margin-left:auto;
+}
+
+.nav-left {
+    padding: 20px;
+}
+
+.nav-right {
+    padding: 20px;
+}
