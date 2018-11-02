@@ -88,10 +88,149 @@ export default class App extends React.Component {
                             </div>
                             </div>
                         </li>
+                        <li>
+                    <div class="mini-grid">
+                    <div class="circle-dark">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle-dark">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle-dark">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle-dark">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="mini-grid">
+                    <div class="circle">
+                    </div>
+                    <div>
+                    <h2 class="mail-sender">
+                        John Doe
+                    </h2>
+                    <p class="mail-subject">Hello there spam mail...</p>
+                    </div>
+                    <div class="forward-icon">
+                    </div>
+                    </div>
+                </li>
             
             </ul>
             </div>
-                    <div class="third-part">hi</div>
                 </div>
                 </div>
             )

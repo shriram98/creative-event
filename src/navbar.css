@@ -1,17 +1,39 @@
 .navbar-container {
-    background: white;
+    background: #212934;
     display: flex;
     width: 100%;
 }
 
 .username {
     margin-left:auto;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
 }
 
 .nav-left {
     padding: 20px;
 }
-
+.nav-logo img{
+    margin-top:-5vh; 
+    height: 150px;
+}
 .nav-right {
     padding: 20px;
+}
+.nav-search{
+    padding-left: 43vh;
+}
+.username{
+    margin-top:10px; 
+    font-size: 1.5rem;
+}
+.user-dp{
+   background-image: url('https://placeimg.com/640/480/people');
+   width: 30px;
+   height: 30px;
+   background-position: center;
+   background-size: cover;
+   border-radius: 100px;
+   margin-right: 20px;
+   margin-top: 20px;
 }
