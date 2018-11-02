@@ -1,9 +1,18 @@
 import React from 'react'
 
+import './app.css'
+
 export default class App extends React.Component {
-    render() {
-        return(
-            <div></div>
-        )
-    }
+        constructor(props)  {
+            super(props)
+            this.state = {
+                name: []
+            }
+        }
+        render() {
+            return(
+                <div>
+                </div>
+            )
+        }
 }
