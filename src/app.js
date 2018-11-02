@@ -20,6 +20,8 @@ export default class App extends React.Component {
         }
         render() {
             return(
+                <div>
+                    <Navbar />
                 <div class="email-box">
                     <div class="first-part">
                         <ul class="taskbar">
@@ -77,6 +79,7 @@ export default class App extends React.Component {
             </ul>
             </div>
                     <div class="third-part">hi</div>
+                </div>
                 </div>
             )
         }
