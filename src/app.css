@@ -56,6 +56,8 @@ ul, li {
     width: fit-content;
     padding: 4px;
     border-radius: 15px;
+    opacity: 0;
+    margin-left: 20px;
 }
 
 /*li.taskbar-item:hover {
@@ -109,4 +111,16 @@ ul, li {
     margin: 0px;
 }
 
+.display {
+    opacity: 1
+}
+
+.log {
+    display: inline;
+}
+
+.icon-img {
+    height:50px;
+    width: 50px;
+}
 /*code ends here second part*/
