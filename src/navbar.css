@@ -6,6 +6,7 @@
 
 .username {
     margin-left:auto;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .nav-left {
@@ -14,4 +15,17 @@
 
 .nav-right {
     padding: 20px;
+}
+.nav-search{
+    padding-left: 43vh;
+}
+.user-dp{
+   background-image: url('https://placeimg.com/640/480/people');
+   width: 30px;
+   height: 30px;
+   background-position: center;
+   background-size: cover;
+   border-radius: 100px;
+   margin-right: 5px;
+   margin-top: 5px;
 }

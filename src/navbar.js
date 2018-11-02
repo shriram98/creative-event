@@ -7,9 +7,10 @@ export default class Navbar extends Component {
         return(
             <nav className="navbar-container">
                     <div className="nav-left nav-logo">Logo</div>
-                    <div className="nav-left nav-search"><input type="text" className="search-box" /></div>
+                    <div className="nav-left nav-search"><input type="text" placeholder="Search" className="search-box" /></div>
                     <div className="nav-right username">Username</div>
-                    <div className="nav-right user-dp">DP</div>
+                    <div className="nav-right user-dp">
+                    </div>
             </nav>
         )
     }
