@@ -38,13 +38,10 @@ export default class App extends React.Component {
                 <div class="email-box">
                     <div class="first-part">
                         <ul class="taskbar">
-                            <li  class="taskbar-item"><div id="compose" className=" log comp-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label compose">Compose</div></li>
-                            <li  class="taskbar-item"><div id="inbox" className="log in-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label inbox">Inbox</div></li>
-                            <li  class="taskbar-item"><div id="starred" className="log star-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label starred">Starred</div></li>
-                            <li class="taskbar-item"><div  id="drafts" className="log draft-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label drafts">Drafts</div></li>
-                            <li  class="taskbar-item"><div id="archive" className="log arch-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label archive">Archive</div></li>
-                            <li  class="taskbar-item"><div id="sentItems" className="log sent-logo icon" onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label sentItems">Sent Items</div></li>
-                            <li  class="taskbar-item"><div id="spam" className="log spam-logo icon" onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./trash.png")}></img></div><div className="log label spam">Spam</div></li>
+                        <li  class="taskbar-item"><div id="spam" className="log spam-logo icon" onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img compose" src={require("./img/compose.png")}></img></div><div className="log label spam">Spam</div></li>
+                            <li  class="taskbar-item"><div id="compose" className=" log comp-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img compose" src={require("./trash.png")}></img></div><div className="log label compose">Compose</div></li>
+                            <li  class="taskbar-item"><div id="inbox" className="log in-logo icon " onMouseEnter={this.display} onMouseLeave={this.remove}><img className="icon-img" src={require("./important.png")}></img></div><div className="log label inbox">Inbox</div></li>
+
                         </ul>
                     </div>
                    

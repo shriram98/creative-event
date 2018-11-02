@@ -76,6 +76,9 @@ input[type=text] {
     font-family: 'Quicksand', sans-serif;
 }
 
+.compose img{
+    height: 50px;
+}
 
 /*Code for second Part*/
 .mini-grid{
